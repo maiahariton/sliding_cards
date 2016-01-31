@@ -1,2 +1,2 @@
 # Sliding cards 
-![img](https://github.com/maiahariton/sliding_cards.git)
+![card](https://github.com/maiahariton/sliding_cards.git)
